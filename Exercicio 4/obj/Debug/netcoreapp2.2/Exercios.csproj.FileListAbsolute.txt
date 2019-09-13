@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Senai-Back-end-C-\Exercicio 4\bin\Debug\netcoreapp2.2\Exercios.deps.json
+C:\Users\fic\Desktop\Senai-Back-end-C-\Exercicio 4\bin\Debug\netcoreapp2.2\Exercios.runtimeconfig.json
+C:\Users\fic\Desktop\Senai-Back-end-C-\Exercicio 4\bin\Debug\netcoreapp2.2\Exercios.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Senai-Back-end-C-\Exercicio 4\bin\Debug\netcoreapp2.2\Exercios.dll
+C:\Users\fic\Desktop\Senai-Back-end-C-\Exercicio 4\bin\Debug\netcoreapp2.2\Exercios.pdb
+C:\Users\fic\Desktop\Senai-Back-end-C-\Exercicio 4\obj\Debug\netcoreapp2.2\Exercios.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Senai-Back-end-C-\Exercicio 4\obj\Debug\netcoreapp2.2\Exercios.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Senai-Back-end-C-\Exercicio 4\obj\Debug\netcoreapp2.2\Exercios.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Senai-Back-end-C-\Exercicio 4\obj\Debug\netcoreapp2.2\Exercios.AssemblyInfo.cs
+C:\Users\fic\Desktop\Senai-Back-end-C-\Exercicio 4\obj\Debug\netcoreapp2.2\Exercios.dll
+C:\Users\fic\Desktop\Senai-Back-end-C-\Exercicio 4\obj\Debug\netcoreapp2.2\Exercios.pdb
