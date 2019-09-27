@@ -6,7 +6,7 @@ namespace Exercicio_6
     {
         static void Main(string[] args)
         {
-            float salariofx, divida, sobra;
+            float salariofx, divida, sobra;  
 
             Console.WriteLine("Digite seu salário");
             salariofx = float.Parse(Console.ReadLine());
